@@ -1,0 +1,1 @@
+efc78d565f679b0350814e5f3a1b6f0ce52c4a4e18acc6c23ce303167d214c70  /home/ubuntu/bunker/dist/genesis-001.tar.zst
